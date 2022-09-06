@@ -11,8 +11,8 @@ import sys
 session = requests.session()
 #账号密码存放处
 data = {
-  "email": "请输入账号",
-  "passwd": "请输入密码"
+  "email": "256964797",
+  "passwd": "zjl123321..."
 }
 
 #登录
